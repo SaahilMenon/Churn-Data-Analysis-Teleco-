@@ -28,8 +28,8 @@ This project analyzes telecom customer churn to understand who leaves and why, a
 4. Target onboarding/loyalty programs to customers in their first 6 months.
 
 ## Power BI Dashboard (Previews)
-![Overview](dashboard_Pics/dashboard_overview.png)
-![Churn by Contract](dashboard_Pics/churn_by_contract.png)
+![Overview](dashboard_Pics/Overview.png)
+![Churn by Contract](dashboard_Pics/Churn_by_contract.png)
 
 
 ## How to run (Python)
